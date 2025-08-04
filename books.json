@@ -1,0 +1,98 @@
+{
+  "williams1856": {
+    "title": "A Tonic Dictionary of the Chinese Language in the Canton Dialect (英華分韻撮要)",
+    "year": 1856,
+    "source": [
+      {
+        "name": "Google Books",
+        "url": "https://www.google.com.hk/books/edition/%E8%8B%B1%E8%8F%AF%E5%88%86%E9%9F%BB%E6%92%AE%E8%A6%81/dadBAAAAIAAJ?hl=en&gbpv=0"
+      }
+    ]
+  },
+  "eitel1877": {
+    "title": "A Chinese Dictionary in the Cantonese Dialect",
+    "year": 1877,
+    "source": [
+      {
+        "name": "Google Books",
+        "url": "https://www.google.com.hk/books/edition/A_Chinese_dictionary_in_the_Cantonese_di/mh8TAAAAYAAJ?hl=zh-TW&gbpv=0"
+      }
+    ]
+  },
+  "eitel1910": {
+    "title": "A Chinese-English Dictionary in the Cantonese Dialect",
+    "year": 1910,
+    "source": [
+      {
+        "name": "Google Books",
+        "url": "https://www.google.com.hk/books/edition/Chinese_dictionary_in_the_Cantonese_dial/2YhEAQAAMAAJ?hl=zh-TW&gbpv=0"
+      }
+    ]
+  },
+  "lee1914": {
+    "title": "分部分音廣話九聲字宗",
+    "year": 1914
+  },
+  "lee1916": {
+    "title": "廣話國語一貫未定稿",
+    "year": 1916,
+    "source": [
+      {
+        "name": "香港大學圖書館",
+        "url": "https://digitalrepository.lib.hku.hk/catalog/41687h54j"
+      }
+    ],
+    "remarks": "圖片按規定以 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 授權發表，如要使用請指明出處，即香港大學圖書館。"
+  },
+  "chiu1931": {
+    "title": "民衆識字粤語拼音字彙",
+    "year": 1931
+  },
+  "wong1937": {
+    "title": "中華新字典",
+    "year": 1937
+  },
+  "chan1939v1": {
+    "title": "道漢字音〈卷一〉道漢字典",
+    "year": 1939
+  },
+  "chan1939v2": {
+    "title": "道漢字音〈卷二〉粵語音典",
+    "year": 1939
+  },
+  "fung1974": {
+    "title": "粵語同音字典",
+    "year": 1939,
+    "source": [
+      {
+        "name": "Internet Archive"
+      }
+    ]
+  },
+  "ile1992": {
+    "title": "常用字廣州話讀音表",
+    "year": 1992
+  },
+  "ile1994": {
+    "title": "常用字廣州話異讀分類整理",
+    "year": 1994
+  },
+  "fw1782by": {
+    "title": "分韻撮要（壁魚堂）",
+    "source": [
+      {
+        "name": "Google Books",
+        "url": "https://www.google.com.hk/books/edition/%E5%88%86%E9%9F%BB%E6%92%AE%E8%A6%81/UFhkMHJjzyMC?hl=zh-TW&gbpv=0"
+      }
+    ]
+  },
+  "fw1782lk": {
+    "title": "江湖分韻酬世全書",
+    "source": [
+      {
+        "name": "Google Books",
+        "url": "https://www.google.com.hk/books/edition/_/FW9CIOquBLEC?hl=zh-TW&gbpv=0"
+      }
+    ]
+  }
+}
